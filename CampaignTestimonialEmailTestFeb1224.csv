@@ -1,0 +1,62 @@
+Campaign Report,,
+Title:,Testimonial Email Test,
+Delivery Date/Time:,"Tuesday, Feb 13, 2024 5:00 pm",
+,,
+Combination 1 Stats,,
+Subject Line:,Building on your success with Veterans Transition Support ,
+From Name:,Russell Levy Veterans Transition Support President,
+From Email:,kathy@veteranstransitionsupport.org,
+Content Description:," ""Variation A""",
+TotalRecipients_A,"2,715",
+SuccessfulDeliveries_A,"2,703",
+Bounces_A,12 (0.4%),
+TimesForwarded_A,0,
+ForwardedOpens_A,0,
+RecipientsWhoOpened_A,"1,378 (51.0%)",
+TotalOpens_A,"1,891",
+LastOpenDate_A,2/26/24 8:06AM,
+RecipientsWhoClicked_A,26 (1.0%),
+TotalClicks_A,30,
+LastClickDate_A,2/21/24 7:21PM,
+TotalUnsubs_A,10,
+,,
+Combination 2 Stats,,
+Subject Line:,Building on your success with Veterans Transition Support ,
+From Name:,Russell Levy Veterans Transition Support President,
+From Email:,kathy@veteranstransitionsupport.org,
+Content Description:," ""Variation B""",
+TotalRecipients_B,"2,714",
+SuccessfulDeliveries_B,"2,701",
+Bounces_B,13 (0.5%),
+TimesForwarded_B,0,
+ForwardedOpens_B,0,
+RecipientsWhoOpened_B,"1,352 (50.1%)",
+TotalOpens_B,"1,879",
+LastOpenDate_B,2/26/24 8:05AM,
+RecipientsWhoClicked_B,21 (0.8%),
+TotalClicks_B,27,
+LastClickDate_B,2/19/24 3:44AM,
+TotalUnsubs_B,5,
+TotalAbuseComplaints_B,0,
+,,
+Combination 1 Clicks by URL,,
+URL,Total Clicks,Unique Clicks
+Paypal,18,16
+Eventbrite,5,4
+LinkedIn,3,2
+CompanySite,3,3
+Facebook,1,1
+Twitter,0,0
+Instagram,0,0
+Youtube,0,0
+,,
+Combination 2 Clicks by URL,,
+URL,Total Clicks,Unique Clicks
+Paypal_2,8,7
+Facebook_2,6,5
+CompanySite_2,5,5
+Eventbrite_2,4,3
+LinkedIn_2,4,3
+Twitter_2,0,0
+Instagram_2,0,0
+Youtube_2,0,0

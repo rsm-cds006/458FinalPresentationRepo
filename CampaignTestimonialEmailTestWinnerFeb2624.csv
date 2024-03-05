@@ -1,0 +1,30 @@
+Email Campaign Report,,
+Title:,Testimonial Email Test | Winner,
+Subject Line:,Building on your success with Veterans Transition Support ,
+Delivery Date/Time:,"Wed, Feb 21, 2024 8:28 am",
+,,
+Overall Stats,,
+TotalRecipients_C,"5,430",
+SuccessfulDeliveries_C,"5,408",
+Bounces_C,22 (0.4%),
+TimesForwarded_C,1,
+ForwardedOpens_C,0,
+RecipientsWhoOpened_C,"2,670 (49.4%)",
+TotalOpens_C,"3,502",
+LastOpenDate_C,2/26/24 7:17AM,
+RecipientsWhoClicked_C,59 (1.1%),
+TotalClicks_C,102,
+LastClickDate_C,2/25/24 2:29PM,
+TotalUnsubs_C,18,
+TimesLikedonFacebook_C,0,
+,,
+Clicks by URL,,
+URL,Total Clicks,Unique Clicks
+Paypal_3,44,27
+LinkedIn_3,20,16
+Eventbrite_3,15,10
+CompanySite_3,13,11
+Facebook_3,6,5
+Youtube_3,4,4
+Twitter_3,0,0
+Instagram_3,0,0
